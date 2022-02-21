@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NextJS , React Native**
 
-- 👨‍💻 All of my projects are available at [https://taro-ressume.netlify.app/](https://taro-ressume.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://aztaro97.com/](https://taro-ressume.netlify.app/)
 
 - 📫 How to reach me **aztaro97@gmail.com**
 
