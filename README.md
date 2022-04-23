@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web3.0 , React Native**
 
-- 👨‍💻 All of my projects are available at [https://aztaro97.com/](https://taro-ressume.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://aztaro97.com](https://aztaro97.com)
 
 - 📫 How to reach me **aztaro97@gmail.com**
 
