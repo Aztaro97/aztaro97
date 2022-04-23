@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taro Abdoul Aziz</h1>
 <h3 align="center">A passionate Full-StackJS developer from Dubai, UAE</h3>
 
-- 🌱 I’m currently learning **NextJS , React Native**
+- 🌱 I’m currently learning **Web3.0 , React Native**
 
 - 👨‍💻 All of my projects are available at [https://aztaro97.com/](https://taro-ressume.netlify.app/)
 
