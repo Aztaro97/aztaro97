@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taro Abdoul Aziz</h1>
 <h3 align="center">A passionate about IA && web development from Abu Dhabi, UAE.</h3>
 
-- 🌱 I’m currently learning **Web3.0 , React Native**
+- 🌱 I’m currently learning **Web3.0**
 
 - 👨‍💻 All of my projects are available at [https://aztaro97.com](https://aztaro97.com)
 
