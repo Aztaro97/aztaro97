@@ -7,11 +7,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aztaro97&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+
 ###
 
 <img align="right" height="100" src="https://i.seadn.io/gae/WXxBdMz5M26O5QWkwTINGYTdGvWq3edErejzPRwm2Vgobln0v3GPKsjpvnA-yNTFQDIai6ztKdBuD1NiR92bA9tLBfTmv0aH-XysMAY?auto=format&dpr=1&w=1920"  />
 
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -62,8 +64,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/aztaro97/aztaro97/output/snake.svg" alt="Snake animation" />
-
-###
