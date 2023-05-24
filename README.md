@@ -9,21 +9,9 @@
 * 🖥️  Check out my portfolio at [www.aztaro97.com](https://www.aztaro97.com)
 * 🧑‍🏫  "Best way to learn is to build shit" - [TheoBr](https://www.twitter.com/t3dotgg)
 
-###
+<br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aztaro97&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aztaro97&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-
-###
-
-<img align="right" height="100" src="https://i.seadn.io/gae/WXxBdMz5M26O5QWkwTINGYTdGvWq3edErejzPRwm2Vgobln0v3GPKsjpvnA-yNTFQDIai6ztKdBuD1NiR92bA9tLBfTmv0aH-XysMAY?auto=format&dpr=1&w=1920"  />
-
-###
-
-## Tech I'm passionate about () => {
+### Tech I'm passionate about () => {
 
 <div style="display: flex;gap:'10px'">
   <a href="https://www.typescriptlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="Typescript" /></a>
@@ -33,18 +21,28 @@
   <a href="https://www.tailwindcss.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="48" height="48" alt="TailwindCSS" /></a>
   <a href="https://prisma.io"><img src="https://www.prisma.io/images/favicon-32x32.png" width="48" height="48" alt="Prisma" /></a>
   <a href="https://www.docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="PlanetScale" /></a>
-  <a href="https://redux.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48" height="48" alt="PlanetScale" /></a>
+  <a href="https://redux.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48" height="48" alt="redux" /></a>
   <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="PlanetScale" /></a>
-  <a href="https://graphql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48" height="48" alt="PlanetScale" /></a>
-  <a href="https://www.cprogramming.com/tutorial/c-tutorial.html?inl=nv"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="PlanetScale" /></a>
+  <a href="https://graphql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48" height="48" alt="graphql" /></a>
+  <a href="https://jestjs.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48" height="48" alt="jestjs" /></a>
+  <a href="https://www.cprogramming.com/tutorial/c-tutorial.html?inl=nv"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="PlanetScale" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="48" height="48" alt="NodeJS" /></a>
   <a href="https://planetscale.com"><img src="https://avatars.githubusercontent.com/u/35612527?s=200&v=4" width="48" height="48" alt="PlanetScale" /></a>
-  <a href="https://jestjs.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48" height="48" alt="PlanetScale" /></a>
+<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="48" height="48" alt="Supabase" /></a>
 </div>
 
 ### }
 
+<br />
+
+### My GitHub Stats
+
+<a href="http://www.github.com/aztaro97"><img src="https://github-readme-stats.vercel.app/api?username=aztaro97&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="aztaro97's GitHub stats" /></a>
+
 ###
+##
+
 
 <br clear="both">
 
