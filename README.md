@@ -2,7 +2,7 @@
 
 ### Senior - Full-Stack Typescript Developer 💻
 
-* 👨‍💻  Currently mostly into web, mobile App & AI Engineer. Build most stuff using the [create-t3-app](https://www.github.com/nexxeln/create-t3-app) stack
+* 👨‍💻  Currently mostly into Web, Mobile App & AI Engineer. Build most stuff using the [create-t3-app](https://www.github.com/nexxeln/create-t3-app) stack
 * 🤝  Open Source Enthusiast
 * 🌍  Based in United Arab Emirated  🇦🇪
 * 🏫  Student @ [42 Abu Dhabi](https://42abudhabi.ae) 
