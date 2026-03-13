@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Taro Abdoul Aziz </h2>
 
-### Senior - Full-Stack Typescript Developer 💻
+### Senior AI - Full-Stack Typescript Developer 💻
 
 * 👨‍💻  Currently mostly into Web, Mobile App & AI Engineer. Build most stuff using the [create-t3-app](https://www.github.com/nexxeln/create-t3-app) stack
 * 🤝  Open Source Enthusiast
