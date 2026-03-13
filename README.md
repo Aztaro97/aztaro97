@@ -7,7 +7,7 @@
 * 🌍  Based in United Arab Emirated  🇦🇪
 * 🏫  Student @ [42 Abu Dhabi](https://42abudhabi.ae) 
 * 🖥️  Check out my portfolio at [www.aztaro.dev](https://www.aztaro.dev)
-* 🧑‍🏫  "Best way to learn is to build shit" - [TheoBr](https://www.twitter.com/t3dotgg)
+* 🧑‍🏫  "Best way to learn is to build shit" - [TheoBr](https://www.twitter.com/theo)
 
 <br />
 
